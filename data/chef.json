@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "name": "Chef John",
+      "experience": 10,
+      "recipes": 150
+    },
+    {
+      "id": 2,
+      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "name": "Chef Maria",
+      "experience": 8,
+      "recipes": 80
+    },
+    {
+      "id": 3,
+      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "name": "Chef David",
+      "experience": 5,
+      "recipes": 50
+    },
+    {
+      "id": 4,
+      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "name": "Chef Lisa",
+      "experience": 12,
+      "recipes": 200
+    },
+    {
+      "id": 5,
+      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "name": "Chef Alex",
+      "experience": 3,
+      "recipes": 30
+    },
+    {
+      "id": 6,
+      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "name": "Chef Emily",
+      "experience": 7,
+      "recipes": 100
+    }
+  ]
