@@ -1,0 +1,333 @@
+
+     [
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "ctg_id":2,
+        "details": "A classic Italian dish made with spaghetti, eggs, bacon, and cheese.",
+        "elements": [
+          "1 pound spaghetti",
+          "6 ounces bacon, diced",
+          "4 large eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/spaghetti-carbonara.jpg"
+      },
+      {
+        "id": 2,
+        "ctg_id":1,
+        "name": "Margherita Pizza",
+        "details": "A simple but delicious pizza made with tomato sauce, mozzarella cheese, and fresh basil.",
+        "elements": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "1/4 cup fresh basil leaves",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/margherita-pizza.jpg"
+      },
+      {
+        "id": 3,
+        "ctg_id":3,
+        "name": "Chicken Parmesan",
+        "details": "A classic Italian-American dish made with breaded chicken, tomato sauce, and melted cheese.",
+        "elements": [
+          "4 boneless, skinless chicken breasts",
+          "1/2 cup all-purpose flour",
+          "2 large eggs, beaten",
+          "1 cup Italian-style breadcrumbs",
+          "1 cup tomato sauce",
+          "1 cup shredded mozzarella cheese",
+          "1/4 cup grated Parmesan cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/chicken-parmesan.jpg"
+      },
+      {
+        "id": 4,
+        "ctg_id":4,
+        "name": "Lasagna",
+        "details": "A classic Italian dish made with layers of pasta, meat sauce, and cheese.",
+        "elements": [
+          "1 pound ground beef",
+          "1/2 pound Italian sausage",
+          "1 jar (24 ounces) spaghetti sauce",
+          "1 can (14.5 ounces) diced tomatoes",
+          "1 teaspoon dried basil",
+          "1 teaspoon dried oregano",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "8 lasagna noodles, cooked and drained",
+          "2 cups shredded mozzarella cheese",
+          "1/2 cup grated Parmesan cheese"
+        ],
+        "image": "https://www.example.com/images/lasagna.jpg"
+      },
+      {
+        "id": 5,
+        "ctg_id":5,
+        "name": "Fettuccine Alfredo",
+        "details": "A creamy pasta dish made with fettuccine noodles and a sauce made from butter, cream, and Parmesan cheese.",
+        "elements": [
+          "1 pound fettuccine pasta",
+          "1/2 cup unsalted butter",
+          "2 cups heavy cream",
+          "2 cups grated Parmesan cheese",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper"
+        ],
+        "image": "https://www.example.com/images/fettuccine-alfredo.jpg"
+      },
+      {
+        "id": 6,
+        "ctg_id":6,
+        "name": "Caprese Salad",
+        "details": "A refreshing salad made with fresh mozzarella cheese, ripe tomatoes, and fresh basil.",
+        "elements": [
+          "1 pound fresh mozzarella cheese, sliced",
+          "3 large tomatoes, sliced",
+          "1/4 cup fresh basil leaves",
+          "2 tablespoons balsamic vinegar",
+          "2 tablespoons olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/caprese-salad.jpg"
+      },
+      {
+        "id": 6,
+        "ctg_id":1,
+        "name": "Pesto Pasta",
+        "details": "A flavorful pasta dish made with basil pesto, pine nuts, and Parmesan cheese.",
+        "elements": [
+          "1 pound linguine pasta",
+          "2 cups fresh basil leaves",
+          "1/2 cup pine nuts",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup olive oil",
+          "3 cloves garlic",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/pesto-pasta.jpg"
+      },
+      {
+        "id": 8,
+        "ctg_id":2,
+        "name": "Minestrone Soup",
+        "details": "A hearty soup made with vegetables, beans, and pasta.",
+        "elements": [
+          "2 tablespoons olive oil",
+          "1 onion, chopped",
+          "3 cloves garlic, minced",
+          "3 carrots, peeled and chopped",
+          "3 celery stalks, chopped",
+          "1 can (14.5 ounces) diced tomatoes",
+          "4 cups vegetable broth",
+          "1 can (15 ounces) cannellini beans, drained and rinsed",
+          "1 cup uncooked small pasta",
+          "1/4 cup chopped fresh parsley",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/minestrone-soup.jpg"
+      },
+      {
+        "id": 9,
+        "ctg_id":3,
+        "name": "Tiramisu",
+        "details": "A classic Italian dessert made with ladyfingers, espresso, and a creamy mascarpone cheese filling.",
+        "elements": [
+          "1 cup heavy cream",
+          "8 ounces mascarpone cheese",
+          "1/4 cup sugar",
+          "1/4 cup brewed espresso, cooled",
+          "24 ladyfingers",
+          "2 tablespoons unsweetened cocoa powder"
+        ],
+        "image": "https://www.example.com/images/tiramisu.jpg"
+      },
+      {
+        "id": 10,
+        "ctg_id":4,
+        "name": "Osso Buco",
+        "details": "A flavorful dish made with veal shanks braised in white wine and vegetables.",
+        "elements": [
+          "4 veal shanks",
+          "1/2 cup all-purpose flour",
+          "2 tablespoons olive oil",
+          "1 onion, chopped",
+          "3 carrots, peeled and chopped",
+          "3 celery stalks, chopped",
+          "1 cup white wine",
+          "1 can (14.5 ounces) diced tomatoes",
+          "2 cups beef broth",
+          "3 cloves garlic, minced",
+          "1 teaspoon dried thyme",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/osso-buco.jpg"
+      },  {
+        "id": 11,
+        "ctg_id":5,
+        "name": "Chicken Parmesan",
+        "details": "A classic Italian-American dish made with breaded chicken breasts, tomato sauce, and mozzarella cheese.",
+        "elements": [
+          "4 boneless, skinless chicken breasts",
+          "1/2 cup all-purpose flour",
+          "2 large eggs, beaten",
+          "1 cup Italian-seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "2 cups tomato sauce",
+          "2 cups shredded mozzarella cheese",
+          "2 tablespoons olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/chicken-parmesan.jpg"
+      },
+      {
+        "id": 12,
+        "ctg_id":6,
+        "name": "Spaghetti Carbonara",
+        "details": "A simple pasta dish made with spaghetti, eggs, bacon, and Parmesan cheese.",
+        "elements": [
+          "1 pound spaghetti",
+          "8 ounces bacon, diced",
+          "4 large eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/spaghetti-carbonara.jpg"
+      },
+      {
+        "id": 13,
+        "ctg_id":1,
+        "name": "Risotto",
+        "details": "A creamy rice dish made with Arborio rice, white wine, and Parmesan cheese.",
+        "elements": [
+          "1 onion, chopped",
+          "2 tablespoons olive oil",
+          "1 1/2 cups Arborio rice",
+          "1/2 cup white wine",
+          "4 cups chicken broth",
+          "1/2 cup grated Parmesan cheese",
+          "2 tablespoons butter",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/risotto.jpg"
+      },
+      {
+        "id": 14,
+        "ctg_id":2,
+        "name": "Lasagna",
+        "details": "A layered pasta dish made with ground beef, tomato sauce, and ricotta and mozzarella cheese.",
+        "elements": [
+          "12 lasagna noodles",
+          "1 pound ground beef",
+          "1 jar (24 ounces) tomato sauce",
+          "1/2 cup water",
+          "2 cups ricotta cheese",
+          "2 cups shredded mozzarella cheese",
+          "1/2 cup grated Parmesan cheese",
+          "2 tablespoons olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/lasagna.jpg"
+      },
+      {
+        "id": 15,
+        "ctg_id":3,
+        "name": "Bruschetta",
+        "details": "A simple Italian appetizer made with toasted bread, tomatoes, and basil.",
+        "elements": [
+          "1 loaf Italian bread, sliced",
+          "3 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1/4 cup chopped fresh basil",
+          "1/4 cup olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/bruschetta.jpg"
+      }, {
+        "id": 16,
+        "ctg_id":3,
+        "name": "Chicken Parmesan",
+        "details": "A classic Italian-American dish made with breaded chicken breasts, tomato sauce, and mozzarella cheese.",
+        "elements": [
+          "4 boneless, skinless chicken breasts",
+          "1/2 cup all-purpose flour",
+          "2 large eggs, beaten",
+          "1 cup Italian-seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "2 cups tomato sauce",
+          "2 cups shredded mozzarella cheese",
+          "2 tablespoons olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/chicken-parmesan.jpg"
+      },
+      {
+        "id": 17,
+        "ctg_id":4,
+        "name": "Spaghetti Carbonara",
+        "details": "A simple pasta dish made with spaghetti, eggs, bacon, and Parmesan cheese.",
+        "elements": [
+          "1 pound spaghetti",
+          "8 ounces bacon, diced",
+          "4 large eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/spaghetti-carbonara.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Risotto",
+        "ctg_id":5,
+        "details": "A creamy rice dish made with Arborio rice, white wine, and Parmesan cheese.",
+        "elements": [
+          "1 onion, chopped",
+          "2 tablespoons olive oil",
+          "1 1/2 cups Arborio rice",
+          "1/2 cup white wine",
+          "4 cups chicken broth",
+          "1/2 cup grated Parmesan cheese",
+          "2 tablespoons butter",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/risotto.jpg"
+      },
+      {
+        "id": 19,
+        "ctg_id":6,
+        "name": "Lasagna",
+        "details": "A layered pasta dish made with ground beef, tomato sauce, and ricotta and mozzarella cheese.",
+        "elements": [
+          "12 lasagna noodles",
+          "1 pound ground beef",
+          "1 jar (24 ounces) tomato sauce",
+          "1/2 cup water",
+          "2 cups ricotta cheese",
+          "2 cups shredded mozzarella cheese",
+          "1/2 cup grated Parmesan cheese",
+          "2 tablespoons olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/lasagna.jpg"
+      },
+      {
+        "id": 20,
+        "ctg_id":1,
+        "name": "Bruschetta",
+        "details": "A simple Italian appetizer made with toasted bread, tomatoes, and basil.",
+        "elements": [
+          "1 loaf Italian bread, sliced",
+          "3 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1/4 cup chopped fresh basil",
+          "1/4 cup olive oil",
+          "Salt and freshly ground black pepper"
+        ],
+        "image": "https://www.example.com/images/bruschetta.jpg"
+      }
+    ]
+  
