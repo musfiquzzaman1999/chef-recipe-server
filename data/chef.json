@@ -3,42 +3,54 @@
       "id": 1,
       "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
       "name": "Chef John",
+      "bio": "Chef John is an Italian chef and restaurateur. He is the owner and head chef of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine.",
       "experience": 10,
+      "likes":430,
       "recipes": 150
     },
     {
       "id": 2,
-      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "picture": "https://img.freepik.com/free-photo/bearded-master-chef-prepares-fresh-salmon_496169-111.jpg?w=996&t=st=1683054296~exp=1683054896~hmac=cdaa99d6bd8d4a184db4c31306db22650b7baaa5252960a627e8eee539d42dd4",
       "name": "Chef Maria",
+      "bio": "Chef Maria is an Italian-American chef, author, and television personality. She is known for her traditional Italian cooking and her popular cooking show, Lidia's Kitchen.",
+      "likes":234,
       "experience": 8,
       "recipes": 80
     },
     {
       "id": 3,
-      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "picture": "https://img.freepik.com/free-photo/medium-shot-chef-sharpening-knives_23-2148723274.jpg?w=1060&t=st=1683054058~exp=1683054658~hmac=f5c189d7b5ce18d9f950ebad7f7e412387b23fe8638065272901e7e34624302a",
       "name": "Chef David",
+      "bio": "Chef David is an Italian-American chef, restaurateur, and television personality. He is known for his focus on Italian cuisine and his appearances on cooking shows such as Iron Chef America and The Chew.",
+      "likes":120,
       "experience": 5,
       "recipes": 50
     },
     {
       "id": 4,
-      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "picture": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?w=996&t=st=1683054021~exp=1683054621~hmac=f7d35a6df165a42e4b85f507ac67422f7c8e0309403de3141f3915175447358f",
       "name": "Chef Lisa",
+      "bio": "Chef Lisa is an Italian chef and restaurateur. He is the owner and head chef of Cracco Ristorante in Milan, which has been awarded two Michelin stars. He is known for his contemporary take on traditional Italian cuisine.",
+      "likes":400,
       "experience": 12,
       "recipes": 200
     },
     {
       "id": 5,
-      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=996&t=st=1683053968~exp=1683054568~hmac=4aca795a788eec3988027bcb6a16b8149f7bdf73d7479507635432192e3ed8dd",
       "name": "Chef Alex",
+      "bio": "Chef Alex was an Italian chef and restaurateur. He was considered the founder of modern Italian cuisine and was the first Italian chef to receive three Michelin stars. He passed away in 2017, but his legacy continues to influence Italian cuisine.",
+      "likes":300,
       "experience": 3,
       "recipes": 30
     },
     {
       "id": 6,
-      "picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=996&t=st=1682965403~exp=1682966003~hmac=ac0e01bde0cdc3e2adde6dc06ffd8da87f5059879b9edc2becfa5b2e5b566def",
+      "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1683053910~exp=1683054510~hmac=a89a4ed3c8718d1c62e9c2d2115dc59741908871b0bf15b6f7b2138cb29e6163",
       "name": "Chef Emily",
+      "bio": "Chef Emily is an Italian chef and restaurateur. She is the owner and head chef of Dal Pescatore, a three-Michelin-starred restaurant in Mantua, Italy. She is known for her traditional Italian cooking, using ingredients from her family farm.",
       "experience": 7,
+      "likes":200,
       "recipes": 100
     }
   ]
