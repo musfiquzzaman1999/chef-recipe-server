@@ -7,12 +7,16 @@ app.use(cors())
 
 const chefs = require('./data/chef.json');
 const recipes = require('./data/recipes.json')
+const newRecipes = require('./data/new.json')
 
 app.get('/', (req, res) => {
   res.send('chef recipe hunder site!')
 })
 app.get('/chefs', (req, res) => {
     res.send(chefs)
+  })
+  app.get('/newRecipes', (req, res) => {
+    res.send(newRecipes)
   })
   app.get('/recipes',(req,res)=>{
     res.send(recipes);
