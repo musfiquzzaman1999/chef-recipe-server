@@ -6,7 +6,7 @@
       "bio": "Chef John is an Italian chef and restaurateur. He is the owner and head chef of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine.",
       "experience": 10,
       "likes":430,
-      "recipes": 150
+      "recipes": 4
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "bio": "Chef Maria is an Italian-American chef, author, and television personality. She is known for her traditional Italian cooking and her popular cooking show, Lidia's Kitchen.",
       "likes":234,
       "experience": 8,
-      "recipes": 80
+      "recipes": 3
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "bio": "Chef David is an Italian-American chef, restaurateur, and television personality. He is known for his focus on Italian cuisine and his appearances on cooking shows such as Iron Chef America and The Chew.",
       "likes":120,
       "experience": 5,
-      "recipes": 50
+      "recipes": 3
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "bio": "Chef Lisa is an Italian chef and restaurateur. He is the owner and head chef of Cracco Ristorante in Milan, which has been awarded two Michelin stars. He is known for his contemporary take on traditional Italian cuisine.",
       "likes":400,
       "experience": 12,
-      "recipes": 200
+      "recipes": 3
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "bio": "Chef Alex was an Italian chef and restaurateur. He was considered the founder of modern Italian cuisine and was the first Italian chef to receive three Michelin stars. He passed away in 2017, but his legacy continues to influence Italian cuisine.",
       "likes":300,
       "experience": 3,
-      "recipes": 30
+      "recipes": 3
     },
     {
       "id": 6,
@@ -51,6 +51,6 @@
       "bio": "Chef Emily is an Italian chef and restaurateur. She is the owner and head chef of Dal Pescatore, a three-Michelin-starred restaurant in Mantua, Italy. She is known for her traditional Italian cooking, using ingredients from her family farm.",
       "experience": 7,
       "likes":200,
-      "recipes": 100
+      "recipes": 3
     }
   ]
